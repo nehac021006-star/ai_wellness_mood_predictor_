@@ -8,9 +8,13 @@ Built with Python, Machine Learning, and Streamlit.
 
 
 
+
 📌 Project Overview
+
+
+
  This project is an AI-powered Wellness & Mood Prediction System that analyzes a user’s daily lifestyle patterns and predicts their mood score (1–5) using Machine Learning.
- The system uses data such as:
+ The system uses data such as: 
   Sleep hours
   Stress level
   Screen time
@@ -22,48 +26,79 @@ Built with Python, Machine Learning, and Streamlit.
 
 
 
+
   
   🧪 Example Prediction
+
+  
 Input values such as:
 Sleep Hours: 7
+
 Stress Level: 3
+
 Screen Time: 4 hours
+
 Steps: 6500
+
 Social Interactions: 5
+
 Productivity Score: 7
+
+
 App outputs:
+
 Wellness Score: 7.8 / 10
+
 Mood: Happy
+
 Suggested improvement tips
 
 
 
 
+
   🚀 Features
+  
 ✔ Predicts mood score using Random Forest
+
 ✔ Interactive Streamlit Web App
+
 ✔ Visualizes sleep–mood and stress–mood relationships
+
 ✔ Includes synthetic wellness dataset (CSV)
+
 ✔ Beginner-friendly ML workflow
+
 ✔ Ready for internships & portfolio projects
 
 
 
 
 
+
 🗂️ Tech Stack
+
 Python
+
 Pandas, NumPy
+
 Scikit-learn
+
 Matplotlib
+
 Streamlit (for UI)
 
 
 
+
 🚀 Live Demo
+
 Try the live deployed app here:
+
 🔗 AI Wellness & Mood Predictor
 https://nehac021006-star-ai-wellness-mood-predictor--app-q0hklk.streamlit.app 
+
+
 
 
 
