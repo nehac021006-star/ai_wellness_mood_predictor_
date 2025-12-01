@@ -32,11 +32,17 @@ Built with Python, Machine Learning, and Streamlit.
 
   
 Input values such as:
+
 Sleep Hours: 7
+
 Stress Level: 3
+
 Screen Time: 4 hours
+
 Steps: 6500
+
 Social Interactions: 5
+
 Productivity Score: 7
 
 
