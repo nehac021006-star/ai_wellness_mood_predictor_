@@ -103,13 +103,6 @@ https://nehac021006-star-ai-wellness-mood-predictor--app-q0hklk.streamlit.app
 
 
 
-🔧 Installation
-1. Clone the repository
-git clone https://github.com/nehac021006c-star/AI-wellness.git
-cd AI-wellness
-
-
-
 
 🌍 Deploying Online
 This project is deployed using Streamlit Cloud.
